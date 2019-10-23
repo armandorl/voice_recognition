@@ -1,0 +1,24 @@
+
+# 3-Clause BSD License
+# Copyright (c) 2019, Armando Ruiz <armandorl@gmail.com>
+# All rights reserved.
+
+# Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+# 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+# 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+# 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# ConversationEngine distributes source code and binaries from gTTS. These files are MIT-licensed and redistributable as long as copyright notices are correctly retained.
+
+# The licensing information for SpeechRecognition can be found within the SpeechRecognition README.
+
+# SpeechRecognition distributes source code, binaries, and language files from CMU Sphinx. These files are BSD-licensed and redistributable as long as copyright notices are correctly retained. See speech_recognition/pocketsphinx-data/*/LICENSE*.txt and third-party/LICENSE-Sphinx.txt for license details for individual parts.
+
+# SpeechRecognition distributes source code and binaries from PyAudio. These files are MIT-licensed and redistributable as long as copyright notices are correctly retained. See third-party/LICENSE-PyAudio.txt for license details.
+
+# SpeechRecognition distributes binaries from FLAC - speech_recognition/flac-win32.exe, speech_recognition/flac-linux-x86, and speech_recognition/flac-mac. These files are GPLv2-licensed and redistributable, as long as the terms of the GPL are satisfied. The FLAC binaries are an aggregate of separate programs, so these GPL restrictions do not apply to the library or your programs that use the library, only to FLAC itself. See LICENSE-FLAC.txt for license details

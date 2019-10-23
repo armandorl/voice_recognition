@@ -1,0 +1,13 @@
+
+
+
+[Conversation]
+Title=Een slecht weer
+1. Wat een weer...
+2. ja, het heeft de hele dag geregend
+1. denk je dat het zal stoppen?
+2. volgens buienradar stopt het na een half uur
+1. oh perfect, dan kan ik naar huis gaan
+2. ga naar huis? maar het is nog vroeg
+1. niet voor mij, ik ben vandaag vrij vroeg aangekomen
+[EndConversation]
